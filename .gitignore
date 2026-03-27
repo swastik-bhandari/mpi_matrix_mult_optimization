@@ -1,1 +1,14 @@
-build
+# Build folders
+/build/
+/bin/
+
+# Compiled object files
+*.o
+*.obj
+*.exe
+*.out
+*.pdb
+
+# OS files
+.DS_Store
+Thumbs.db
